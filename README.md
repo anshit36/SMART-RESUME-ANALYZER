@@ -179,8 +179,8 @@ This project was developed to explore **Python, Streamlit, NLP, resume parsing, 
 
 ### 🔗 GitHub
 
-[22rohanbisht-ally](https://github.com/22rohanbisht-ally)
 
+https://github.com/anshit36/SMART-RESUME-ANALYZER/edit/main/README.md
 ---
 
 ⭐ If you find this project useful, consider giving the repository a star!
